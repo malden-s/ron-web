@@ -1,0 +1,1 @@
+export const splitOrderAgreeMessage = "I agree to promptly confirm receipt of each order. Failure to do so may result in cancelled order and return of remaining BSV.";
